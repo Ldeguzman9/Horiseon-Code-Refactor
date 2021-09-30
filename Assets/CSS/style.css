@@ -197,7 +197,8 @@ p {
 }
 /* Section Style End */
 
-.footer {
+/* Footer Navigation Style begin */
+footer {
   padding: 30px;
   clear: both;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -205,6 +206,7 @@ p {
   text-align: center;
 }
 
-.footer h2 {
+footer h2 {
   font-size: 20px;
 }
+/* Footer Navigation Style End */
