@@ -62,6 +62,11 @@ a {
 }
 /* Hero Style End */
 
+/* Section Style Begin */
+p {
+  font-size: 16px;
+}
+
 .float-left {
   float: left;
   margin-right: 25px;
@@ -190,6 +195,7 @@ a {
   margin-bottom: 20px;
   font-size: 36px;
 }
+/* Section Style End */
 
 .footer {
   padding: 30px;
