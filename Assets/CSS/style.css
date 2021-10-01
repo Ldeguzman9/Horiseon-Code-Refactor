@@ -68,16 +68,16 @@ a {
 }
 /* Hero Style End */
 
-/* Section Style Begin */
+/* Main Style Begin */
 p {
   font-size: 16px;
 }
 
-section img {
+main img {
   max-height: 200px;
 }
 
-section div {
+main section {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
@@ -86,7 +86,7 @@ section div {
   color: #ffffff;
 }
 
-section div h2 {
+main section h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
@@ -124,7 +124,7 @@ section div h2 {
   margin: 10px auto;
   max-width: 150px;
 }
-/* Section Style End */
+/* Main Style End */
 
 /* Footer Navigation Style begin */
 footer {
