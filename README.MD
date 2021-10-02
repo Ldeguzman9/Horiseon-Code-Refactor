@@ -36,6 +36,7 @@ THEN I find a concise, descriptive title
 This project simulated a real-world problem that I may face as a developer. Sometimes code is written in a lengthy and repertative way and may need to be consolidated for long term sustainability. 
 
 ## What problem does it solve? What did you learn? 
+![VS Code Screen Shot](https://github.com/Ldeguzman9/Module-1---Challenge/blob/main/Assets/Images/Code%20Screenshot.png?raw=true)
 I faced a couple of issues. I learned to double check case sensitivity on images to ensure that they work when a live link is deployed. The new code solves the issue of a complicated code that may be difficult to adjust if a developer would like to make adjustments or add new features to the page.
 
 ## What makes your project stand out?
