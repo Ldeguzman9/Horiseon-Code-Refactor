@@ -33,7 +33,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 ## Motivation? Why did you build this project? 
-This project simulated a real-world problem that I may face as a developer. Sometime code is written in a lengthy and repertative way and may need to be consolidated for long term sustainability. 
+This project simulated a real-world problem that I may face as a developer. Sometimes code is written in a lengthy and repertative way and may need to be consolidated for long term sustainability. 
 
 ## What problem does it solve? What did you learn? 
 I faced a couple of issues. I learned to double check case sensitivity on images to ensure that they work when a live link is deployed. The new code solves the issue of a complicated code that may be difficult to adjust if a developer would like to make adjustments or add new features to the page.
