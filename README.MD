@@ -43,4 +43,4 @@ I faced a couple of issues. I learned to double check case sensitivity on images
 I believe my project is very well organized and easy to read. Any developer could pick it up and know exactly what was done. 
 
 ##
-Deployed link: https://ldeguzman9.github.io/Module-1---Challenge/
+Deployed link: https://ldeguzman9.github.io/Horiseon-Code-Refactor/
