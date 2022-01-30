@@ -1,4 +1,4 @@
-## Module 1 - Challange ##
+## Horiseon Code Refactor ##
 ## Overview
 
 In order to create a webpage that meets accessibility standards:
