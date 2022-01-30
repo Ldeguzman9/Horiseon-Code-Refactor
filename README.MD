@@ -1,4 +1,6 @@
 ## Horiseon Code Refactor ##
+As web developer we have to be prepared to take on previously written code and find startegic ways to improve their readability. In this project I was given previously written code and given the task of imroving its lifecycle and dryness. 
+
 ## Overview
 
 In order to create a webpage that meets accessibility standards:
